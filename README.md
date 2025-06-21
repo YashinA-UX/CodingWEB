@@ -15,3 +15,5 @@ Community Forums: Ask questions, share ideas, and connect with other learners an
 
  Our Goal
 We want to make coding easy for everyone. CodingWeb is an HTML website designed to be a clear and straightforward place to learn. We believe that with simple lessons and a helpful community, anyone can learn to code.
+Higly inspired by PixelWeb, check it out! 
+https://github.com/pixelatedguyx/PixelWEB
